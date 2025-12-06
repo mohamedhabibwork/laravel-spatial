@@ -1,10 +1,10 @@
 # Laravel Spatial Extension
 
-[![Build Status](https://img.shields.io/travis/mohamedhabibwork/laravel-mysql-spatial.svg?style=flat-square)](https://travis-ci.org/mohamedhabibwork/laravel-mysql-spatial)
-[![Code Climate](https://img.shields.io/codeclimate/maintainability/mohamedhabibwork/laravel-mysql-spatial.svg?style=flat-square)](https://codeclimate.com/github/mohamedhabibwork/laravel-mysql-spatial/maintainability)
-[![Code Climate](https://img.shields.io/codeclimate/c/mohamedhabibwork/laravel-mysql-spatial.svg?style=flat-square&colorB=4BCA2A)](https://codeclimate.com/github/mohamedhabibwork/laravel-mysql-spatial/test_coverage)
-[![Packagist](https://img.shields.io/packagist/v/mohamedhabibwork/laravel-mysql-spatial.svg?style=flat-square)](https://packagist.org/packages/mohamedhabibwork/laravel-mysql-spatial)
-[![Packagist](https://img.shields.io/packagist/dt/mohamedhabibwork/laravel-mysql-spatial.svg?style=flat-square)](https://packagist.org/packages/mohamedhabibwork/laravel-mysql-spatial)
+[![Build Status](https://img.shields.io/travis/mohamedhabibwork/laravel-spatial.svg?style=flat-square)](https://travis-ci.org/mohamedhabibwork/laravel-spatial)
+[![Code Climate](https://img.shields.io/codeclimate/maintainability/mohamedhabibwork/laravel-spatial.svg?style=flat-square)](https://codeclimate.com/github/mohamedhabibwork/laravel-spatial/maintainability)
+[![Code Climate](https://img.shields.io/codeclimate/c/mohamedhabibwork/laravel-spatial.svg?style=flat-square&colorB=4BCA2A)](https://codeclimate.com/github/mohamedhabibwork/laravel-spatial/test_coverage)
+[![Packagist](https://img.shields.io/packagist/v/mohamedhabibwork/laravel-spatial.svg?style=flat-square)](https://packagist.org/packages/mohamedhabibwork/laravel-spatial)
+[![Packagist](https://img.shields.io/packagist/dt/mohamedhabibwork/laravel-spatial.svg?style=flat-square)](https://packagist.org/packages/mohamedhabibwork/laravel-spatial)
 [![StyleCI](https://github.styleci.io/repos/83766141/shield?branch=master)](https://github.styleci.io/repos/83766141)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
 
