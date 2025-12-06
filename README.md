@@ -1,10 +1,10 @@
 # Laravel Spatial Extension
 
-[![Build Status](https://img.shields.io/travis/Habib/laravel-mysql-spatial.svg?style=flat-square)](https://travis-ci.org/Habib/laravel-mysql-spatial)
-[![Code Climate](https://img.shields.io/codeclimate/maintainability/Habib/laravel-mysql-spatial.svg?style=flat-square)](https://codeclimate.com/github/Habib/laravel-mysql-spatial/maintainability)
-[![Code Climate](https://img.shields.io/codeclimate/c/Habib/laravel-mysql-spatial.svg?style=flat-square&colorB=4BCA2A)](https://codeclimate.com/github/Habib/laravel-mysql-spatial/test_coverage)
-[![Packagist](https://img.shields.io/packagist/v/Habib/laravel-mysql-spatial.svg?style=flat-square)](https://packagist.org/packages/Habib/laravel-mysql-spatial)
-[![Packagist](https://img.shields.io/packagist/dt/Habib/laravel-mysql-spatial.svg?style=flat-square)](https://packagist.org/packages/Habib/laravel-mysql-spatial)
+[![Build Status](https://img.shields.io/travis/mohamedhabibwork/laravel-mysql-spatial.svg?style=flat-square)](https://travis-ci.org/mohamedhabibwork/laravel-mysql-spatial)
+[![Code Climate](https://img.shields.io/codeclimate/maintainability/mohamedhabibwork/laravel-mysql-spatial.svg?style=flat-square)](https://codeclimate.com/github/mohamedhabibwork/laravel-mysql-spatial/maintainability)
+[![Code Climate](https://img.shields.io/codeclimate/c/mohamedhabibwork/laravel-mysql-spatial.svg?style=flat-square&colorB=4BCA2A)](https://codeclimate.com/github/mohamedhabibwork/laravel-mysql-spatial/test_coverage)
+[![Packagist](https://img.shields.io/packagist/v/mohamedhabibwork/laravel-mysql-spatial.svg?style=flat-square)](https://packagist.org/packages/mohamedhabibwork/laravel-mysql-spatial)
+[![Packagist](https://img.shields.io/packagist/dt/mohamedhabibwork/laravel-mysql-spatial.svg?style=flat-square)](https://packagist.org/packages/mohamedhabibwork/laravel-mysql-spatial)
 [![StyleCI](https://github.styleci.io/repos/83766141/shield?branch=master)](https://github.styleci.io/repos/83766141)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
 
